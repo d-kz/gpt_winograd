@@ -1,0 +1,20 @@
+You will receive rows of data. Each column is separated by ';' symbol. Columns are as following:"text";"pronoun";"quote";"options". 
+
+Your job is to answer each row of data with the following question. What does "pronoun" in "quote" refer to in the "text", given "options"? Choose your answer from "options". 
+
+pay particular attention to ambiguities and try to infer the answer using your knowledge of how the world works to get the right answer. Think it over three times before giving your answer. 
+
+Make sure your output is only one of the "options". Provide your answers as a list. don't repeat the question, only give answers. I repeat, do not repeat the question or give your reasoning, just give the answer. 
+
+
+
+
+answer using your knowledge of how the world works to get the right answer.
+
+
+
+You will receive rows of data. Each column is separated by ';' symbol. Columns are as following:"text";"pronoun";"quote";"options". 
+
+Your job is to answer each row of data with the following question. What does "pronoun" in "quote" refer to in the "text", given "options"? pay particular attention to ambiguities and try to infer the answer using your knowledge of how the world works to get the right answer.
+
+Provide your answers as a list, don't give explanations, just pick an answer. Choose your answer from "options" per each row. You can only pick one from the 2 options. 
